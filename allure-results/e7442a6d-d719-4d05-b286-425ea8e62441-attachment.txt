@@ -1,0 +1,21 @@
+Элемент не найден: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=126.0.6478.126)
+Stacktrace:
+0   chromedriver                        0x0000000103262a80 chromedriver + 4385408
+1   chromedriver                        0x000000010325b38c chromedriver + 4354956
+2   chromedriver                        0x0000000102e78b0c chromedriver + 281356
+3   chromedriver                        0x0000000102ebada8 chromedriver + 552360
+4   chromedriver                        0x0000000102ef3d24 chromedriver + 785700
+5   chromedriver                        0x0000000102eafeec chromedriver + 507628
+6   chromedriver                        0x0000000102eb08c4 chromedriver + 510148
+7   chromedriver                        0x000000010322a43c chromedriver + 4154428
+8   chromedriver                        0x000000010322eea0 chromedriver + 4173472
+9   chromedriver                        0x000000010320fff8 chromedriver + 4046840
+10  chromedriver                        0x000000010322f78c chromedriver + 4175756
+11  chromedriver                        0x0000000103202fb8 chromedriver + 3993528
+12  chromedriver                        0x000000010324d21c chromedriver + 4297244
+13  chromedriver                        0x000000010324d398 chromedriver + 4297624
+14  chromedriver                        0x000000010325af84 chromedriver + 4353924
+15  libsystem_pthread.dylib             0x000000019ec5ef94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019ec59d34 thread_start + 8
+
